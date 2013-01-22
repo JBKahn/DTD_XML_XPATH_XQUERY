@@ -1,0 +1,121 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE RESPONSES SYSTEM "responses.dtd">
+
+<RESPONSES>
+    <STUDENT sID = 'g0cookie'>
+        <RESPONSE qID = 'college'><MC><CHOICES choice="Vic"></CHOICES></MC></RESPONSE>
+        <RESPONSE qID = 'year'><NUMERIC answer = '3'></NUMERIC></RESPONSE>
+        <RESPONSE qID = 'courses'><MC><CHOICES choice="csc309"></CHOICES></MC></RESPONSE>
+        <RESPONSE qID = 'courses'><MC><CHOICES choice="csc318"></CHOICES></MC></RESPONSE>
+        <RESPONSE qID = 'prefs'><MC><CHOICES choice="recommender systems"></CHOICES></MC></RESPONSE>
+        <RESPONSE qID = 'prefs'><MC><CHOICES choice="human genome"></CHOICES></MC></RESPONSE>
+        <RESPONSE qID = 'times'><TIMETABLE timeslotID='1' availability = "yes"></TIMETABLE></RESPONSE>
+        <RESPONSE qID = 'times'><TIMETABLE timeslotID='2' availability = "no"></TIMETABLE></RESPONSE>
+        <RESPONSE qID = 'times'><TIMETABLE timeslotID='3' availability = "yes"></TIMETABLE></RESPONSE>
+        <RESPONSE qID = 'times'><TIMETABLE timeslotID='4' availability = "yes"></TIMETABLE></RESPONSE>
+    </STUDENT>
+    <STUDENT sID = 'g0ernie'>
+        <RESPONSE qID = 'college'><MC><CHOICES choice="New"></CHOICES></MC></RESPONSE>
+        <RESPONSE qID = 'year'><NUMERIC answer = '3'></NUMERIC></RESPONSE>
+        <RESPONSE qID = 'courses'><MC><CHOICES choice="csc336/350"></CHOICES></MC></RESPONSE>
+        <RESPONSE qID = 'prefs'><MC><CHOICES choice="human genome"></CHOICES></MC></RESPONSE>
+        <RESPONSE qID = 'prefs'><MC><CHOICES choice="location-aware apps"></CHOICES></MC></RESPONSE>
+        <RESPONSE qID = 'times'><TIMETABLE timeslotID='1' availability = "yes"></TIMETABLE></RESPONSE>
+        <RESPONSE qID = 'times'><TIMETABLE timeslotID='2' availability = "yes"></TIMETABLE></RESPONSE>
+        <RESPONSE qID = 'times'><TIMETABLE timeslotID='3' availability = "yes"></TIMETABLE></RESPONSE>
+        <RESPONSE qID = 'times'><TIMETABLE timeslotID='4' availability = "yes"></TIMETABLE></RESPONSE>
+    </STUDENT>
+    <STUDENT sID = 'g0bigbir'>
+        <RESPONSE qID = 'college'><MC><CHOICES choice="Vic"></CHOICES></MC></RESPONSE>
+        <RESPONSE qID = 'year'><NUMERIC answer = '4'></NUMERIC></RESPONSE>
+        <RESPONSE qID = 'courses'><MC><CHOICES choice="csc318"></CHOICES></MC></RESPONSE>
+        <RESPONSE qID = 'courses'><MC><CHOICES choice="csc343"></CHOICES></MC></RESPONSE>
+        <RESPONSE qID = 'prefs'><MC><CHOICES choice="image processing"></CHOICES></MC></RESPONSE>
+        <RESPONSE qID = 'prefs'><MC><CHOICES choice="human genome"></CHOICES></MC></RESPONSE>
+        <RESPONSE qID = 'times'><TIMETABLE timeslotID='1' availability = "no"></TIMETABLE></RESPONSE>
+        <RESPONSE qID = 'times'><TIMETABLE timeslotID='2' availability = "yes"></TIMETABLE></RESPONSE>
+        <RESPONSE qID = 'times'><TIMETABLE timeslotID='3' availability = "yes"></TIMETABLE></RESPONSE>
+        <RESPONSE qID = 'times'><TIMETABLE timeslotID='4' availability = "no"></TIMETABLE></RESPONSE>
+    </STUDENT>
+    <STUDENT sID = 'g0dora'>
+        <RESPONSE qID = 'college'><MC><CHOICES choice="Innis"></CHOICES></MC></RESPONSE>
+        <RESPONSE qID = 'year'><NUMERIC answer = '2'></NUMERIC></RESPONSE>
+        <RESPONSE qID = 'prefs'><MC><CHOICES choice="image processing"></CHOICES></MC></RESPONSE>
+        <RESPONSE qID = 'prefs'><MC><CHOICES choice="encryption"></CHOICES></MC></RESPONSE>
+        <RESPONSE qID = 'times'><TIMETABLE timeslotID='1' availability = "no"></TIMETABLE></RESPONSE>
+        <RESPONSE qID = 'times'><TIMETABLE timeslotID='2' availability = "no"></TIMETABLE></RESPONSE>
+        <RESPONSE qID = 'times'><TIMETABLE timeslotID='3' availability = "yes"></TIMETABLE></RESPONSE>
+        <RESPONSE qID = 'times'><TIMETABLE timeslotID='4' availability = "no"></TIMETABLE></RESPONSE>
+    </STUDENT>
+    <STUDENT sID = 'g0diego'>
+        <RESPONSE qID = 'college'><MC><CHOICES choice="Innis"></CHOICES></MC></RESPONSE>
+        <RESPONSE qID = 'year'><NUMERIC answer = '4'></NUMERIC></RESPONSE>
+        <RESPONSE qID = 'courses'><MC><CHOICES choice="csc318"></CHOICES></MC></RESPONSE>
+        <RESPONSE qID = 'prefs'><MC><CHOICES choice="image processing"></CHOICES></MC></RESPONSE>
+        <RESPONSE qID = 'prefs'><MC><CHOICES choice="encryption"></CHOICES></MC></RESPONSE>
+        <RESPONSE qID = 'times'><TIMETABLE timeslotID='1' availability = "no"></TIMETABLE></RESPONSE>
+        <RESPONSE qID = 'times'><TIMETABLE timeslotID='2' availability = "yes"></TIMETABLE></RESPONSE>
+        <RESPONSE qID = 'times'><TIMETABLE timeslotID='3' availability = "yes"></TIMETABLE></RESPONSE>
+        <RESPONSE qID = 'times'><TIMETABLE timeslotID='4' availability = "yes"></TIMETABLE></RESPONSE>
+    </STUDENT>
+    <STUDENT sID = 'g0max'>
+        <RESPONSE qID = 'college'><MC><CHOICES choice="UC"></CHOICES></MC></RESPONSE>
+        <RESPONSE qID = 'year'><NUMERIC answer = '3'></NUMERIC></RESPONSE>
+        <RESPONSE qID = 'courses'><MC><CHOICES choice="csc309"></CHOICES></MC></RESPONSE>
+        <RESPONSE qID = 'courses'><MC><CHOICES choice="csc343"></CHOICES></MC></RESPONSE>
+        <RESPONSE qID = 'prefs'><MC><CHOICES choice="human genome"></CHOICES></MC></RESPONSE>
+        <RESPONSE qID = 'prefs'><MC><CHOICES choice="encryption"></CHOICES></MC></RESPONSE>
+        <RESPONSE qID = 'times'><TIMETABLE timeslotID='1' availability = "yes"></TIMETABLE></RESPONSE>
+        <RESPONSE qID = 'times'><TIMETABLE timeslotID='2' availability = "yes"></TIMETABLE></RESPONSE>
+        <RESPONSE qID = 'times'><TIMETABLE timeslotID='3' availability = "yes"></TIMETABLE></RESPONSE>
+        <RESPONSE qID = 'times'><TIMETABLE timeslotID='4' availability = "no"></TIMETABLE></RESPONSE>
+    </STUDENT>
+    <STUDENT sID = 'g0ruby'>
+        <RESPONSE qID = 'college'><MC><CHOICES choice="Woodsworth"></CHOICES></MC></RESPONSE>
+        <RESPONSE qID = 'year'><NUMERIC answer = '4'></NUMERIC></RESPONSE>
+        <RESPONSE qID = 'courses'><MC><CHOICES choice="csc309"></CHOICES></MC></RESPONSE>
+        <RESPONSE qID = 'courses'><MC><CHOICES choice="csc343"></CHOICES></MC></RESPONSE>
+        <RESPONSE qID = 'courses'><MC><CHOICES choice="csc318"></CHOICES></MC></RESPONSE>
+        <RESPONSE qID = 'prefs'><MC><CHOICES choice="human genome"></CHOICES></MC></RESPONSE>
+        <RESPONSE qID = 'prefs'><MC><CHOICES choice="image processing"></CHOICES></MC></RESPONSE>
+        <RESPONSE qID = 'times'><TIMETABLE timeslotID='1' availability = "yes"></TIMETABLE></RESPONSE>
+        <RESPONSE qID = 'times'><TIMETABLE timeslotID='2' availability = "yes"></TIMETABLE></RESPONSE>
+        <RESPONSE qID = 'times'><TIMETABLE timeslotID='3' availability = "no"></TIMETABLE></RESPONSE>
+        <RESPONSE qID = 'times'><TIMETABLE timeslotID='4' availability = "no"></TIMETABLE></RESPONSE>
+    </STUDENT>
+    <STUDENT sID = 'g0arthur'>
+        <RESPONSE qID = 'college'><MC><CHOICES choice="UC"></CHOICES></MC></RESPONSE>
+        <RESPONSE qID = 'year'><NUMERIC answer = '3'></NUMERIC></RESPONSE>
+        <RESPONSE qID = 'courses'><MC><CHOICES choice="csc336/350"></CHOICES></MC></RESPONSE>
+        <RESPONSE qID = 'courses'><MC><CHOICES choice="csc318"></CHOICES></MC></RESPONSE>
+        <RESPONSE qID = 'prefs'><MC><CHOICES choice="location-aware apps"></CHOICES></MC></RESPONSE>
+        <RESPONSE qID = 'prefs'><MC><CHOICES choice="human genome"></CHOICES></MC></RESPONSE>
+        <RESPONSE qID = 'times'><TIMETABLE timeslotID='1' availability = "yes"></TIMETABLE></RESPONSE>
+        <RESPONSE qID = 'times'><TIMETABLE timeslotID='2' availability = "yes"></TIMETABLE></RESPONSE>
+        <RESPONSE qID = 'times'><TIMETABLE timeslotID='3' availability = "yes"></TIMETABLE></RESPONSE>
+        <RESPONSE qID = 'times'><TIMETABLE timeslotID='4' availability = "no"></TIMETABLE></RESPONSE>
+    </STUDENT>
+    <STUDENT sID = 'g0dw'>
+        <RESPONSE qID = 'college'><MC><CHOICES choice="Trinity"></CHOICES></MC></RESPONSE>
+        <RESPONSE qID = 'year'><NUMERIC answer = '2'></NUMERIC></RESPONSE>
+        <RESPONSE qID = 'courses'><MC><CHOICES choice="csc309"></CHOICES></MC></RESPONSE>
+        <RESPONSE qID = 'courses'><MC><CHOICES choice="csc343"></CHOICES></MC></RESPONSE>
+        <RESPONSE qID = 'prefs'><MC><CHOICES choice="human genome"></CHOICES></MC></RESPONSE>
+        <RESPONSE qID = 'prefs'><MC><CHOICES choice="location-aware apps"></CHOICES></MC></RESPONSE>
+        <RESPONSE qID = 'times'><TIMETABLE timeslotID='1' availability = "no"></TIMETABLE></RESPONSE>
+        <RESPONSE qID = 'times'><TIMETABLE timeslotID='2' availability = "yes"></TIMETABLE></RESPONSE>
+        <RESPONSE qID = 'times'><TIMETABLE timeslotID='3' availability = "yes"></TIMETABLE></RESPONSE>
+        <RESPONSE qID = 'times'><TIMETABLE timeslotID='4' availability = "no"></TIMETABLE></RESPONSE>
+    </STUDENT>
+    <STUDENT sID = 'g0franci'>
+        <RESPONSE qID = 'year'><NUMERIC answer = '3'></NUMERIC></RESPONSE>
+        <RESPONSE qID = 'courses'><MC><CHOICES choice="csc343"></CHOICES></MC></RESPONSE>
+        <RESPONSE qID = 'prefs'><MC><CHOICES choice="human genome"></CHOICES></MC></RESPONSE>
+        <RESPONSE qID = 'prefs'><MC><CHOICES choice="encryption"></CHOICES></MC></RESPONSE>
+        <RESPONSE qID = 'times'><TIMETABLE timeslotID='1' availability = "no"></TIMETABLE></RESPONSE>
+        <RESPONSE qID = 'times'><TIMETABLE timeslotID='2' availability = "yes"></TIMETABLE></RESPONSE>
+        <RESPONSE qID = 'times'><TIMETABLE timeslotID='3' availability = "no"></TIMETABLE></RESPONSE>
+        <RESPONSE qID = 'times'><TIMETABLE timeslotID='4' availability = "no"></TIMETABLE></RESPONSE>
+    </STUDENT>
+    <STUDENT sID = 'g0brain'></STUDENT>
+</RESPONSES>

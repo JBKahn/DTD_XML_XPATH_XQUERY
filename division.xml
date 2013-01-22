@@ -1,0 +1,40 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE DIVISIONS SYSTEM "division.dtd">
+<DIVISIONS>
+    <DIVISION>
+        <ID>csc301-2011-v1</ID>
+        <MIN>1</MIN>
+        <MAX>4</MAX>
+        <STUDENTS sID = "g0cookie"></STUDENTS>
+        <STUDENTS sID = "g0ernie"></STUDENTS>
+        <STUDENTS sID = "g0bigbir"></STUDENTS>
+        <STUDENTS sID = "g0dora"></STUDENTS>
+        <STUDENTS sID = "g0diego"></STUDENTS>
+        <STUDENTS sID = "g0max"></STUDENTS>
+        <STUDENTS sID = "g0ruby"></STUDENTS>
+        <STUDENTS sID = "g0arthur"></STUDENTS>
+        <STUDENTS sID = "g0dw"></STUDENTS>
+        <STUDENTS sID = "g0franci"></STUDENTS>
+        <STUDENTS sID = "g0brain"></STUDENTS>
+        <GROUPS gID = 'Sesame Street'>
+            <LEADER sID = "g0bigbir"></LEADER>
+            <MEMBERS sID = "g0ernie"></MEMBERS>
+            <MEMBERS sID = "g0cookie"></MEMBERS>
+        </GROUPS>
+        <GROUPS gID = "Dora the Explora">
+            <LEADER sID = "g0dora"></LEADER>
+            <MEMBERS sID = "g0diego"></MEMBERS>
+        </GROUPS>
+        <GROUPS gID = "Max and Ruby">
+            <LEADER sID = "g0ruby"></LEADER>
+            <MEMBERS sID = "g0max"></MEMBERS>
+        </GROUPS>
+        <GROUPS gID = "Arthur">
+            <LEADER sID = "g0dw"></LEADER>
+            <MEMBERS sID = "g0arthur"></MEMBERS>
+            <MEMBERS sID = "g0franci"></MEMBERS>
+            <MEMBERS sID = "g0brain"></MEMBERS>
+        </GROUPS>
+    </DIVISION>
+</DIVISIONS>
+

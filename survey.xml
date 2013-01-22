@@ -1,0 +1,46 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE SURVEY SYSTEM "survey.dtd">
+<SURVEY>
+    <SID>csc301-2011</SID>
+    <TITLE>CSC301, fall 2011, group project survey</TITLE>
+    <QUESTION qID = 'college' text = 'What college are you in?' mandatory="no">
+        <MC numrequired = '1'>
+            <CHOICES choice="Vic"></CHOICES>
+            <CHOICES choice="UC"></CHOICES>
+            <CHOICES choice="Trinity"></CHOICES>
+            <CHOICES choice="New"></CHOICES>
+            <CHOICES choice="Innis"></CHOICES>
+            <CHOICES choice="St Mike's"></CHOICES>
+            <CHOICES choice="Woodsworth"></CHOICES>
+        </MC>
+    </QUESTION>
+    <QUESTION qID = 'year' text = 'What year are you in?' mandatory="yes">
+        <NUMERIC max="5" min="0"></NUMERIC>
+    </QUESTION>
+    <QUESTION qID = 'courses' text = 'What year are you in?' mandatory="yes">
+        <MC>
+            <CHOICES choice="csc309"></CHOICES>
+            <CHOICES choice="csc343"></CHOICES>
+            <CHOICES choice="csc318"></CHOICES>
+            <CHOICES choice="csc336/350"></CHOICES>
+        </MC>
+    </QUESTION>
+    <QUESTION qID = 'prefs' text = 'Which of these project domains are most interesting to you?  Pick two.' mandatory="yes">
+        <MC numrequired = '2'>
+            <CHOICES choice="recommender systems"></CHOICES>
+            <CHOICES choice="human genome"></CHOICES>
+            <CHOICES choice="encryption"></CHOICES>
+            <CHOICES choice="gaming"></CHOICES>
+            <CHOICES choice="image processing"></CHOICES>
+            <CHOICES choice="location-aware apps"></CHOICES>
+        </MC>
+    </QUESTION>
+    <QUESTION qID = 'times' text = 'When are you available for group meetings? Timeslots:' mandatory="yes">
+        <TIMETABLE allowmaybe="no">
+            <TIMESLOT slot="Mondays, 3pm" timeslotID="1"></TIMESLOT>
+            <TIMESLOT slot="Mondays, 4pm" timeslotID="2"></TIMESLOT>
+            <TIMESLOT slot="Tuesday evenings (after 5pm)" timeslotID="3"></TIMESLOT>
+            <TIMESLOT slot="Fridays, 11am" timeslotID="4"></TIMESLOT>
+        </TIMETABLE>
+    </QUESTION>
+</SURVEY>

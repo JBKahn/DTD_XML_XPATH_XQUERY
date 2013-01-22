@@ -1,0 +1,3 @@
+<?xml version='1.0' standalone='no' ?>
+<!DOCTYPE Availability SYSTEM 'availability.dtd'>
+<Availability><Group numslots="1">Sesame Street</Group><Group numslots="1">Dora the Explora</Group><Group numslots="2">Max and Ruby</Group><Group numslots="0">Arthur</Group></Availability>

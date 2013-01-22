@@ -1,0 +1,191 @@
+DOCUMENT
+version=1.0
+URL=division.xml
+standalone=true
+  ELEMENT DIVISIONS
+    TEXT compact
+      content=     
+    ELEMENT DIVISION
+      TEXT interned
+        content=         
+      ELEMENT ID
+        TEXT
+          content=csc301-2011-v1
+      TEXT interned
+        content=         
+      ELEMENT MIN
+        TEXT compact
+          content=1
+      TEXT interned
+        content=         
+      ELEMENT MAX
+        TEXT compact
+          content=4
+      TEXT interned
+        content=         
+      ELEMENT STUDENTS
+        ATTRIBUTE sid
+          TEXT
+            content=g0cookie
+      TEXT interned
+        content=         
+      ELEMENT STUDENTS
+        ATTRIBUTE sid
+          TEXT compact
+            content=g0ernie
+      TEXT interned
+        content=         
+      ELEMENT STUDENTS
+        ATTRIBUTE sid
+          TEXT
+            content=g0bigbir
+      TEXT interned
+        content=         
+      ELEMENT STUDENTS
+        ATTRIBUTE sid
+          TEXT compact
+            content=g0dora
+      TEXT interned
+        content=         
+      ELEMENT STUDENTS
+        ATTRIBUTE sid
+          TEXT compact
+            content=g0diego
+      TEXT interned
+        content=         
+      ELEMENT STUDENTS
+        ATTRIBUTE sid
+          TEXT compact
+            content=g0max
+      TEXT interned
+        content=         
+      ELEMENT STUDENTS
+        ATTRIBUTE sid
+          TEXT compact
+            content=g0ruby
+      TEXT interned
+        content=         
+      ELEMENT STUDENTS
+        ATTRIBUTE sid
+          TEXT
+            content=g0arthur
+      TEXT interned
+        content=         
+      ELEMENT STUDENTS
+        ATTRIBUTE sid
+          TEXT compact
+            content=g0dw
+      TEXT interned
+        content=         
+      ELEMENT STUDENTS
+        ATTRIBUTE sid
+          TEXT
+            content=g0franci
+      TEXT interned
+        content=         
+      ELEMENT STUDENTS
+        ATTRIBUTE sid
+          TEXT compact
+            content=g0brain
+      TEXT interned
+        content=         
+      ELEMENT GROUPS
+        ATTRIBUTE gid
+          TEXT
+            content=Sesame Street
+        TEXT interned
+          content=             
+        ELEMENT LEADER
+          ATTRIBUTE sid
+            TEXT
+              content=g0bigbir
+        TEXT interned
+          content=             
+        ELEMENT MEMBERS
+          ATTRIBUTE sid
+            TEXT compact
+              content=g0ernie
+        TEXT interned
+          content=             
+        ELEMENT MEMBERS
+          ATTRIBUTE sid
+            TEXT
+              content=g0cookie
+        TEXT interned
+          content=         
+      TEXT interned
+        content=         
+      ELEMENT GROUPS
+        ATTRIBUTE gid
+          TEXT
+            content=Dora the Explora
+        TEXT interned
+          content=             
+        ELEMENT LEADER
+          ATTRIBUTE sid
+            TEXT compact
+              content=g0dora
+        TEXT interned
+          content=             
+        ELEMENT MEMBERS
+          ATTRIBUTE sid
+            TEXT compact
+              content=g0diego
+        TEXT interned
+          content=         
+      TEXT interned
+        content=         
+      ELEMENT GROUPS
+        ATTRIBUTE gid
+          TEXT
+            content=Max and Ruby
+        TEXT interned
+          content=             
+        ELEMENT LEADER
+          ATTRIBUTE sid
+            TEXT compact
+              content=g0ruby
+        TEXT interned
+          content=             
+        ELEMENT MEMBERS
+          ATTRIBUTE sid
+            TEXT compact
+              content=g0max
+        TEXT interned
+          content=         
+      TEXT interned
+        content=         
+      ELEMENT GROUPS
+        ATTRIBUTE gid
+          TEXT compact
+            content=Arthur
+        TEXT interned
+          content=             
+        ELEMENT LEADER
+          ATTRIBUTE sid
+            TEXT compact
+              content=g0dw
+        TEXT interned
+          content=             
+        ELEMENT MEMBERS
+          ATTRIBUTE sid
+            TEXT
+              content=g0arthur
+        TEXT interned
+          content=             
+        ELEMENT MEMBERS
+          ATTRIBUTE sid
+            TEXT
+              content=g0franci
+        TEXT interned
+          content=             
+        ELEMENT MEMBERS
+          ATTRIBUTE sid
+            TEXT compact
+              content=g0brain
+        TEXT interned
+          content=         
+      TEXT compact
+        content=     
+    TEXT compact
+      content= 
